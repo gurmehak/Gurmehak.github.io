@@ -1,7 +1,5 @@
 ---
-title: "Welcome!"
+title: "Welcome! :D <3"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Find out more about me in my 'About' page 
